@@ -1,0 +1,19 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "source": "pages/Home/index"
+    },
+    {
+      "path": "/texttest",
+      "source": "pages/TextTest/index"
+    },
+    {
+      "path": "/scrolltest",
+      "source": "pages/ScrollTest/index"
+    }
+  ],
+  "window": {
+    "title": "storm_client_rax"
+  }
+}

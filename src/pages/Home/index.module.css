@@ -1,0 +1,25 @@
+.homeContainer {
+  align-items: center;
+  margin-top: 100rpx;
+}
+
+.homeTitle {
+  font-size: 45rpx;
+  font-weight: bold;
+  margin: 20rpx 0;
+}
+
+.homeInfo {
+  font-size: 36rpx;
+  margin: 8rpx 0;
+  color: #555;
+}
+
+.welcomeInfo {
+  flex-direction: column;
+  text-align: center;
+  width: 90%;
+  border: 10rpx double black;
+  padding: 50rpx;
+  margin-top: 10rpx;
+}
